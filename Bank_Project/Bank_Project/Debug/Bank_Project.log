@@ -1,0 +1,4 @@
+﻿  Banking_System.cpp
+d:\bank_system\bank_project\bank_project\banking_system.cpp(24): warning C4005: 'max': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\minwindef.h(193): note: see previous definition of 'max'
+  Bank_Project.vcxproj -> D:\Bank_System\Bank_Project\Debug\Bank_Project.exe
